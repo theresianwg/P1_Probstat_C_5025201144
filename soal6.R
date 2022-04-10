@@ -25,4 +25,4 @@ sd   <- 8
 #c
 sd <- 8
   miu = sd * sd
-  paste("Nilai Rataan dan Varian adalah ", miu)
+  paste("Nilai Varian adalah ", miu)
