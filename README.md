@@ -1,4 +1,4 @@
-# P1_Probstat_D_5025201144
+# P1_Probstat_C_5025201144
 ### Theresia Nawangsih / 5025201144 / Pratikum 1 / Probstat D
 
 
