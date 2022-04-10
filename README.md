@@ -190,3 +190,16 @@ plot(result)
 ```
 ![soal6_png](https://user-images.githubusercontent.com/81666422/162617088-718510e4-2339-45fb-a168-47eca3123ca6.png)
 
+### B
+Generate Histogram dari Distribusi Normal dengan breaks 50
+
+![soal6generate_png](https://user-images.githubusercontent.com/81666422/162617631-baa05e08-a176-4a44-9952-d2a4683c78c9.png)
+
+### C
+
+```
+sd <- 8
+  miu = sd * sd
+  paste("Nilai Varian adalah ", miu)
+```
+maka Nilai Varian adalah `64`
